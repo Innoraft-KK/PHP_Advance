@@ -1,0 +1,15 @@
+{
+    "name": "innoraft/task2",
+    "description": "Send email",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.7",
+        "vlucas/phpdotenv":"^5.5"
+    },
+    "authors": [
+        {
+            "name": "Innoraft-KK",
+            "email": "kartik.khandelwal@innoraft.com"
+        }
+    ]
+}
