@@ -1,0 +1,14 @@
+{
+    "name": "innoraft/task1",
+    "description": "Fetch data from api",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "authors": [
+        {
+            "name": "Innoraft-KK",
+            "email": "kartik.khandelwal@innoraft.com"
+        }
+    ]
+}
